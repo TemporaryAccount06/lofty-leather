@@ -17,8 +17,8 @@ const Home = () => {
         exit={{ opacity: 0 }}
         className="absolute top-0 mt-12 text-center"
       >
-        <p>"From the orion stars"</p>
-        <p>Judy Walker</p>
+        <p>"Happy Birthday"</p>
+        <p>Vanshika</p>
       </motion.div>
       {/* Mobile */}
       <Link
@@ -53,7 +53,7 @@ const Home = () => {
       </Link>
       <Marquee
         transition={{ ...transition }}
-        message="Happy Birthday."
+        message="Happy Birthday Babe"
         small={false}
       />
 

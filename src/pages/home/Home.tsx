@@ -64,7 +64,7 @@ const Home = () => {
         className="absolute bottom-0 mb-12 text-center"
       >
         <p>{formatAmPm(new Date())}</p>
-        <p>20.01.2077</p>
+        <p>06.09.2003</p>
       </motion.div>
     </main>
   );
